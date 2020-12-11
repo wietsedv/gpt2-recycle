@@ -16,7 +16,7 @@ For details, check out our paper on [arXiv](https://arxiv.org/abs/2012.05628) an
 ## Models
 
 ### Dutch
- - [`gpt2-small-dutch-embeddings`](https://huggingface.co/GroNLP/gpt2-small-dutch): Small model size with only retrained lexical embeddings.
+ - [`gpt2-small-dutch-embeddings`](https://huggingface.co/GroNLP/gpt2-small-dutch-embeddings): Small model size with only retrained lexical embeddings.
  - [`gpt2-small-dutch`](https://huggingface.co/GroNLP/gpt2-small-dutch):  Small model size with retrained lexical embeddings and additional fine-tuning of the full model. (**Recommended**)
  - [`gpt2-medium-dutch-embeddings`](https://huggingface.co/GroNLP/gpt2-medium-dutch-embeddings): Medium model size with only retrained lexical embeddings.
 
