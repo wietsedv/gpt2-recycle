@@ -18,7 +18,7 @@ def generate(token_ids, model, tokenizer):
                                top_k=20,
                                top_p=0.9,
                                temperature=2.0,
-                               repetition_penalty=10,
+                               repetition_penalty=10.,
                                num_beams=10,
                                no_repeat_ngram_size=4)
 
